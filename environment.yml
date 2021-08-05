@@ -2,7 +2,7 @@ dependencies:
   - python=3
   - pip:
     - spacy
-    - ipykernal
+    - ipykernel
     - scipy
     - numpy
     - scikit-learn
